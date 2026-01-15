@@ -1,2 +1,2 @@
-# python-darslar
+# python-darslari
 Python darslari va mashqlar
